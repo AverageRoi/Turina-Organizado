@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Social on Turina Organizado</title>
+		<link>http://localhost:1313/tags/social/</link>
+		<description>Recent content in Social on Turina Organizado</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/social/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Shrimp social &amp; swap meet</title>
+				<link>http://localhost:1313/events/shrimp-social-swap/</link>
+				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/shrimp-social-swap/</guid>
+				<description>&lt;p&gt;Our favourite night of the season: trade cuttings, colonies and coral frags, and meet the people behind the tanks.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Field trip: Vancouver Aquarium</title>
+				<link>http://localhost:1313/events/vancouver-aquarium-trip/</link>
+				<pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/vancouver-aquarium-trip/</guid>
+				<description>&lt;p&gt;A group day trip to see how the professionals do it, and argue about which exhibit has the best aquascape.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

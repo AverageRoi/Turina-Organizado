@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Field-Trip on Turina Organizado</title>
+		<link>http://localhost:1313/tags/field-trip/</link>
+		<description>Recent content in Field-Trip on Turina Organizado</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 16 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/field-trip/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Taken by the sea: notes from our first tidepool walk</title>
+				<link>http://localhost:1313/blog/taken-by-the-sea/</link>
+				<pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/taken-by-the-sea/</guid>
+				<description>&lt;p&gt;We traded our glass boxes for the real thing: a low-tide morning on the rocks at Rocky Cove.&lt;/p&gt;&#xA;&lt;p&gt;The club that spends every meetup arguing about water parameters went very quiet in front of the first tidepool. Anemones, hermit crabs, and a sculpin doing its best impression of a rock: nobody&amp;rsquo;s tank has ever been this well aquascaped.&lt;/p&gt;&#xA;&lt;p&gt;Half of us came home planning a brackish setup, and all of us came home humbled. The ocean has been running the perfect reef tank all along, no protein skimmer required.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Field trip diary: a day at the Vancouver Aquarium</title>
+				<link>http://localhost:1313/blog/aquarium-field-trip/</link>
+				<pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/aquarium-field-trip/</guid>
+				<description>&lt;p&gt;Fifteen of us spent a rainy Saturday exactly where we wanted to be: in front of very large tanks.&lt;/p&gt;&#xA;&lt;p&gt;Highlights included the kelp forest exhibit, a spirited discussion about sump design, and one member taking ninety-two photos of the same anemone.&lt;/p&gt;&#xA;&lt;p&gt;We left inspired, humbled, and with a shared list of wildly unrealistic dream-tank plans.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Field trip: Vancouver Aquarium</title>
+				<link>http://localhost:1313/events/vancouver-aquarium-trip/</link>
+				<pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/vancouver-aquarium-trip/</guid>
+				<description>&lt;p&gt;A group day trip to see how the professionals do it, and argue about which exhibit has the best aquascape.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

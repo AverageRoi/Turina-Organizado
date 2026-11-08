@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Organizers on Turina Organizado</title>
+		<link>http://localhost:1313/organizers/</link>
+		<description>Recent content in Organizers on Turina Organizado</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/organizers/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Nadia Reyes</title>
+				<link>http://localhost:1313/organizers/nadia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/organizers/nadia/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tom Okada</title>
+				<link>http://localhost:1313/organizers/tom/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/organizers/tom/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Volunteer with us</title>
+				<link>http://localhost:1313/organizers/volunteer/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/organizers/volunteer/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

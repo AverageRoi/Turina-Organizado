@@ -1,0 +1,14 @@
+# Turina Organizado
+
+Una organización de activismo estudiantil.
+
+No upcoming events are scheduled right now.
+
+Join the community chat: https://example.com/discord
+
+## Links
+About and FAQ: http://localhost:1313/about/
+Events: http://localhost:1313/events/
+Calendar feed (iCalendar): http://localhost:1313/events/calendar.ics
+
+Built with the Popular theme.

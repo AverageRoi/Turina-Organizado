@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Beginners on Turina Organizado</title>
+		<link>http://localhost:1313/tags/beginners/</link>
+		<description>Recent content in Beginners on Turina Organizado</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 21 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/beginners/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>New tank 101</title>
+				<link>http://localhost:1313/events/new-tank-101/</link>
+				<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/new-tank-101/</guid>
+				<description>&lt;p&gt;A gentle, hands-on introduction to setting up your first aquarium: tank size, cycling, stocking, and the mistakes we all made so you don&amp;rsquo;t have to.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>New tank 101 recap: five tanks, zero panic</title>
+				<link>http://localhost:1313/blog/new-tank-101-recap/</link>
+				<pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/new-tank-101-recap/</guid>
+				<description>&lt;p&gt;Our biggest beginner night yet. Twenty new keepers, five demo tanks, and one very patient discussion about the nitrogen cycle.&lt;/p&gt;&#xA;&lt;p&gt;The highlight was watching first-timers realize that a beautiful tank is mostly patience: cycle first, stock slowly, and let the plants do the work.&lt;/p&gt;&#xA;&lt;p&gt;Thank you to everyone who brought spare equipment for the giveaway table, three members went home with their first complete setup.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

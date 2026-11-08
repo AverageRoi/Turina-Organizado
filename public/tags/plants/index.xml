@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Plants on Turina Organizado</title>
+		<link>http://localhost:1313/tags/plants/</link>
+		<description>Recent content in Plants on Turina Organizado</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/plants/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Aquascaping night: planted tanks &amp; CO₂</title>
+				<link>http://localhost:1313/events/aquascaping-night/</link>
+				<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/aquascaping-night/</guid>
+				<description>&lt;p&gt;Layouts, substrate, light and the great CO₂ question. Bring photos of your scape, or your plans for one.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

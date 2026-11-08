@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Turina Organizado//Popular theme//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Turina Organizado events
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:http://localhost:1313/events/aquascaping-night/
+DTSTAMP:20261108T172416Z
+DTSTART:20260818T183000
+DTEND:20260818T203000
+SUMMARY:Aquascaping night: planted tanks & CO₂
+LOCATION:The Boathouse Café
+DESCRIPTION:Layouts\, substrate\, light and the great CO₂ question. Bring
+  photos of your scape\, or your plans for one.\nBring photo ID for the bui
+ lding sign-in sheet.\nhttp://localhost:1313/events/aquascaping-night/
+URL:http://localhost:1313/events/aquascaping-night/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:http://localhost:1313/events/shrimp-social-swap/
+DTSTAMP:20261108T172416Z
+DTSTART:20260915T180000
+DTEND:20260915T200000
+SUMMARY:Shrimp social & swap meet
+DESCRIPTION:Our favourite night of the season: trade cuttings\, colonies an
+ d coral frags\, and meet the people behind the tanks.\nhttp://localhost:13
+ 13/events/shrimp-social-swap/
+URL:http://localhost:1313/events/shrimp-social-swap/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

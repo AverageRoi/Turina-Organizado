@@ -876,3 +876,68 @@ pre:hover .g-copy, .g-copy:focus-visible { opacity: 1; }
 .g-pullquote blockquote { margin: 0; font-size: var(--text-lg); font-style: italic; }
 .g-pullquote figcaption { margin-top: 0.5rem; font-size: var(--text-sm); color: var(--text-muted); font-style: normal; }
 .g-pullquote figcaption::before { content: "\2014 \00a0"; }
+
+/* Eventos vacíos en index */
+
+/* Fondo de la sección */
+.g-bg-wash-soft:has(.g-empty) { background: #000000; }
+/* Texto */
+.g-empty .g-lead { color: #ffffff; max-width: 650px; }
+/* Icono del calendario */
+.g-empty .g-medallion { background: #4f9858; color: #ffffff; }
+/* Espaciado */
+.g-empty { padding: 70px 20px; gap: 25px; }
+/* Botón de Discord */
+.g-empty .g-btn--primary { background: #4f9858; color: #ffffff; border: 2px solid #4f9858; border-radius: 12px;transition: all 0.2s ease; }
+/* Hover */
+.g-empty .g-btn--primary:hover { background: #34733d; color: #ffffff; border-color: #34733d; transform: translateY(-3px); box-shadow: none; }
+/* Subscribe to calendar */
+.g-empty a.g-btn[href^="webcal:"] {
+    background: transparent;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 12px;
+    transition: all 0.2s ease;
+}
+
+.g-empty a.g-btn[href^="webcal:"]:hover {
+    background: #ffffff;
+    color: #000000;
+    border-color: #ffffff;
+    transform: translateY(-3px);
+    box-shadow: none;
+}
+
+/* GOOGLE CALENDAR */
+.g-empty a.g-btn[href*="calendar.google.com"] {
+    background: transparent;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 12px;
+    transition: all 0.2s ease;
+}
+
+.g-empty a.g-btn[href*="calendar.google.com"]:hover {
+    background: #4f9858;
+    color: #ffffff;
+    border-color: #4f9858;
+    transform: translateY(-3px);
+    box-shadow: none;
+}
+
+/* DOWNLOAD ICS */
+.g-empty a.g-btn[download] {
+    background: transparent;
+    color: #4f9858;
+    border: 2px solid transparent;
+    border-radius: 12px;
+    transition: all 0.2s ease;
+}
+
+.g-empty a.g-btn[download]:hover {
+    background: #4f9858;
+    color: #ffffff;
+    border-color: #4f9858;
+    transform: translateY(-3px);
+    box-shadow: none;
+}

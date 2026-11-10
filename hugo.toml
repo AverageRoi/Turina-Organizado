@@ -72,7 +72,7 @@ buildFuture = true
 
   [params.notice]
     text = "Huelga general convocada. **Lo qué haremos** nosotros: [ver](https://example.com)."
-    url  = "https://example.com/news"
+    url  = "https://www.ugt.es/11n-huelga-general-salarios-vivienda-precios"
 
   [params.community.chat]
     url   = "https://example.com/discord"

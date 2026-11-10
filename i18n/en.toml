@@ -172,7 +172,7 @@ other = "Blog"
 other = "Eventos"
 
 [eyebrowAuthor]
-one = = "Autor"
+one = "Autor"
 other = "Autores"
 
 [eyebrowDocs]

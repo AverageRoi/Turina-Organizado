@@ -10,7 +10,7 @@ website = "https://averageroi.netlify.app"
   label = "Email"
   icon = "fa-solid fa-envelope"
   url = "mailto:hello@example.com"
-  
+[[social]]
   label = "GitHub"
   icon = "fa-brands fa-github"
   url = "https://github.com/AverageRoi"

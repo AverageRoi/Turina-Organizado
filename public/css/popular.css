@@ -919,7 +919,7 @@ pre:hover .g-copy, .g-copy:focus-visible { opacity: 1; }
 
 .g-empty a.g-btn[href*="calendar.google.com"]:hover {
     background: #ffffff;
-    color: #ffffff;
+    color: #000000;
     border-color: #ffffff;
     transform: translateY(-3px);
     box-shadow: none;

@@ -14,13 +14,6 @@
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Nadia Reyes</title>
-				<link>http://localhost:1313/organizers/nadia/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/organizers/nadia/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Organizer Handbook</title>
 				<link>http://localhost:1313/handbook/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -28,24 +21,31 @@
 				<description>&lt;h2 id=&#34;welcome--how-to-use-this&#34;&gt;Welcome &amp;amp; how to use this&lt;a class=&#34;g-anchor&#34; href=&#34;#welcome--how-to-use-this&#34; aria-hidden=&#34;true&#34; tabindex=&#34;-1&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Thank you for helping run Rocky Cove Aquarium Club. Organizing is a team effort, and you are never expected to do it alone. This handbook is the &lt;em&gt;why&lt;/em&gt; and &lt;em&gt;what&lt;/em&gt;, the principles and expectations. The &lt;a href=&#34;http://localhost:1313/runbooks/&#34;&gt;Runbooks&lt;/a&gt; are the &lt;em&gt;how&lt;/em&gt;, tick-box checklists you follow the week of an event.&lt;/p&gt;&#xA;&lt;div class=&#34;g-callout&#34;&gt;&#xA;  &lt;i class=&#34;fa-solid fa-circle-info&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;div class=&#34;g-callout__body&#34;&gt;&#xA;    &lt;div class=&#34;g-callout__title&#34;&gt;Our north star&lt;/div&gt;&#xA;&lt;p&gt;Every decision comes back to one question: &lt;em&gt;will this help someone who has never been to a meetup feel welcome here?&lt;/em&gt; If yes, we&amp;rsquo;re on the right track.&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
 			</item>
 			<item>
+				<title>Rodrigo Vélez</title>
+				<link>http://localhost:1313/organizers/rodrigo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/organizers/rodrigo/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Meetup Runbooks</title>
 				<link>http://localhost:1313/runbooks/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/runbooks/</guid>
-				<description>&lt;h2 id=&#34;1--book-a-venue&#34;&gt;1 · Book a venue&lt;a class=&#34;g-anchor&#34; href=&#34;#1--book-a-venue&#34; aria-hidden=&#34;true&#34; tabindex=&#34;-1&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Lock the room before anything else, the date depends on it. See the handbook&amp;rsquo;s &lt;a href=&#34;http://localhost:1313/handbook/&#34;&gt;venue criteria&lt;/a&gt; for what makes a good space.&lt;/p&gt;&#xA;&lt;div class=&#34;g-checklist&#34; data-key=&#34;rb-venue&#34;&gt;&#xA;  &lt;div class=&#34;g-checklist__head&#34;&gt;&#xA;    &lt;span&gt;Checklist&lt;/span&gt;&#xA;    &lt;span class=&#34;g-checklist__count&#34;&gt;0/7 done&lt;/span&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;button class=&#34;g-check&#34; type=&#34;button&#34; role=&#34;checkbox&#34; aria-checked=&#34;false&#34;&gt;&#xA;        &lt;span class=&#34;g-check__box&#34;&gt;&lt;/span&gt;&#xA;        &lt;span class=&#34;g-check__label&#34;&gt;Shortlist 2–3 possible venues from our host contacts.&lt;/span&gt;&#xA;      &lt;/button&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&#xA;      &lt;button class=&#34;g-check&#34; type=&#34;button&#34; role=&#34;checkbox&#34; aria-checked=&#34;false&#34;&gt;&#xA;        &lt;span class=&#34;g-check__box&#34;&gt;&lt;/span&gt;&#xA;        &lt;span class=&#34;g-check__label&#34;&gt;Confirm capacity (20–40), step-free access and an accessible washroom.&lt;/span&gt;&#xA;      &lt;/button&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&#xA;      &lt;button class=&#34;g-check&#34; type=&#34;button&#34; role=&#34;checkbox&#34; aria-checked=&#34;false&#34;&gt;&#xA;        &lt;span class=&#34;g-check__box&#34;&gt;&lt;/span&gt;&#xA;        &lt;span class=&#34;g-check__label&#34;&gt;Confirm the equipment and setup your format needs.&lt;/span&gt;&#xA;      &lt;/button&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&#xA;      &lt;button class=&#34;g-check&#34; type=&#34;button&#34; role=&#34;checkbox&#34; aria-checked=&#34;false&#34;&gt;&#xA;        &lt;span class=&#34;g-check__box&#34;&gt;&lt;/span&gt;&#xA;        &lt;span class=&#34;g-check__label&#34;&gt;Agree the date, start/end time and who holds the key.&lt;/span&gt;&#xA;      &lt;/button&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&#xA;      &lt;button class=&#34;g-check&#34; type=&#34;button&#34; role=&#34;checkbox&#34; aria-checked=&#34;false&#34;&gt;&#xA;        &lt;span class=&#34;g-check__box&#34;&gt;&lt;/span&gt;&#xA;        &lt;span class=&#34;g-check__label&#34;&gt;Visit or verify the room in person.&lt;/span&gt;&#xA;      &lt;/button&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&#xA;      &lt;button class=&#34;g-check&#34; type=&#34;button&#34; role=&#34;checkbox&#34; aria-checked=&#34;false&#34;&gt;&#xA;        &lt;span class=&#34;g-check__box&#34;&gt;&lt;/span&gt;&#xA;        &lt;span class=&#34;g-check__label&#34;&gt;Get the host&amp;rsquo;s day-of phone number and building access details.&lt;/span&gt;&#xA;      &lt;/button&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&#xA;      &lt;button class=&#34;g-check&#34; type=&#34;button&#34; role=&#34;checkbox&#34; aria-checked=&#34;false&#34;&gt;&#xA;        &lt;span class=&#34;g-check__box&#34;&gt;&lt;/span&gt;&#xA;        &lt;span class=&#34;g-check__label&#34;&gt;Send the host a written confirmation with date, time and headcount.&lt;/span&gt;&#xA;      &lt;/button&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;2--line-up-a-session-host&#34;&gt;2 · Line up a session host&lt;a class=&#34;g-anchor&#34; href=&#34;#2--line-up-a-session-host&#34; aria-hidden=&#34;true&#34; tabindex=&#34;-1&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A confirmed venue makes it easy to invite a host. Remember: first-timers welcome, offer to help them prepare.&lt;/p&gt;</description>
+				<description>&lt;h2 id=&#34;1--book-a-venue&#34;&gt;1 · Book a venue&lt;a class=&#34;g-anchor&#34; href=&#34;#1--book-a-venue&#34; aria-hidden=&#34;true&#34; tabindex=&#34;-1&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Lock the room before anything else, the date depends on it. See the handbook&amp;rsquo;s &lt;a href=&#34;http://localhost:1313/handbook/&#34;&gt;venue criteria&lt;/a&gt; for what makes a good space.&lt;/p&gt;&#xA;&lt;div class=&#34;g-checklist&#34; data-key=&#34;rb-venue&#34;&gt;&#xA;  &lt;div class=&#34;g-checklist__head&#34;&gt;&#xA;    &lt;span&gt;Checklist&lt;/span&gt;&#xA;    &lt;span class=&#34;g-checklist__count&#34;&gt;0/7 hecho&lt;/span&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;button class=&#34;g-check&#34; type=&#34;button&#34; role=&#34;checkbox&#34; aria-checked=&#34;false&#34;&gt;&#xA;        &lt;span class=&#34;g-check__box&#34;&gt;&lt;/span&gt;&#xA;        &lt;span class=&#34;g-check__label&#34;&gt;Shortlist 2–3 possible venues from our host contacts.&lt;/span&gt;&#xA;      &lt;/button&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&#xA;      &lt;button class=&#34;g-check&#34; type=&#34;button&#34; role=&#34;checkbox&#34; aria-checked=&#34;false&#34;&gt;&#xA;        &lt;span class=&#34;g-check__box&#34;&gt;&lt;/span&gt;&#xA;        &lt;span class=&#34;g-check__label&#34;&gt;Confirm capacity (20–40), step-free access and an accessible washroom.&lt;/span&gt;&#xA;      &lt;/button&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&#xA;      &lt;button class=&#34;g-check&#34; type=&#34;button&#34; role=&#34;checkbox&#34; aria-checked=&#34;false&#34;&gt;&#xA;        &lt;span class=&#34;g-check__box&#34;&gt;&lt;/span&gt;&#xA;        &lt;span class=&#34;g-check__label&#34;&gt;Confirm the equipment and setup your format needs.&lt;/span&gt;&#xA;      &lt;/button&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&#xA;      &lt;button class=&#34;g-check&#34; type=&#34;button&#34; role=&#34;checkbox&#34; aria-checked=&#34;false&#34;&gt;&#xA;        &lt;span class=&#34;g-check__box&#34;&gt;&lt;/span&gt;&#xA;        &lt;span class=&#34;g-check__label&#34;&gt;Agree the date, start/end time and who holds the key.&lt;/span&gt;&#xA;      &lt;/button&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&#xA;      &lt;button class=&#34;g-check&#34; type=&#34;button&#34; role=&#34;checkbox&#34; aria-checked=&#34;false&#34;&gt;&#xA;        &lt;span class=&#34;g-check__box&#34;&gt;&lt;/span&gt;&#xA;        &lt;span class=&#34;g-check__label&#34;&gt;Visit or verify the room in person.&lt;/span&gt;&#xA;      &lt;/button&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&#xA;      &lt;button class=&#34;g-check&#34; type=&#34;button&#34; role=&#34;checkbox&#34; aria-checked=&#34;false&#34;&gt;&#xA;        &lt;span class=&#34;g-check__box&#34;&gt;&lt;/span&gt;&#xA;        &lt;span class=&#34;g-check__label&#34;&gt;Get the host&amp;rsquo;s day-of phone number and building access details.&lt;/span&gt;&#xA;      &lt;/button&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&#xA;      &lt;button class=&#34;g-check&#34; type=&#34;button&#34; role=&#34;checkbox&#34; aria-checked=&#34;false&#34;&gt;&#xA;        &lt;span class=&#34;g-check__box&#34;&gt;&lt;/span&gt;&#xA;        &lt;span class=&#34;g-check__label&#34;&gt;Send the host a written confirmation with date, time and headcount.&lt;/span&gt;&#xA;      &lt;/button&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;2--line-up-a-session-host&#34;&gt;2 · Line up a session host&lt;a class=&#34;g-anchor&#34; href=&#34;#2--line-up-a-session-host&#34; aria-hidden=&#34;true&#34; tabindex=&#34;-1&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A confirmed venue makes it easy to invite a host. Remember: first-timers welcome, offer to help them prepare.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Tom Okada</title>
-				<link>http://localhost:1313/organizers/tom/</link>
+				<title>Víctornadoilla</title>
+				<link>http://localhost:1313/organizers/victor/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/organizers/tom/</guid>
+				<guid>http://localhost:1313/organizers/victor/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Volunteer with us</title>
-				<link>http://localhost:1313/organizers/volunteer/</link>
+				<title>Se un voluntario</title>
+				<link>http://localhost:1313/organizers/voluntario/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/organizers/volunteer/</guid>
+				<guid>http://localhost:1313/organizers/voluntario/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -119,13 +119,6 @@
 				<description>&lt;p&gt;A group day trip to see how the professionals do it, and argue about which exhibit has the best aquascape.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>About us</title>
-				<link>http://localhost:1313/about/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/about/</guid>
-				<description>&lt;p&gt;Rocky Cove Aquarium Club brings together aquarium keepers of every kind, freshwater, saltwater, planted, brackish, and the ones still cycling their first tank. We meet monthly to share what we&amp;rsquo;re keeping, learn from each other, and trade the occasional bag of shrimp.&lt;/p&gt;&#xA;&lt;p&gt;No experience necessary. Some of our favourite meetings have been carried by a member&amp;rsquo;s very first betta setup.&lt;/p&gt;&#xA;&lt;div class=&#34;g-callout&#34;&gt;&#xA;  &lt;i class=&#34;fa-solid fa-circle-info&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;div class=&#34;g-callout__body&#34;&gt;&#xA;    &lt;div class=&#34;g-callout__title&#34;&gt;This is a Hugo demo site&lt;/div&gt;&#xA;&lt;p&gt;Rocky Cove Aquarium Club is a fictional community, made up to demonstrate the &lt;strong&gt;Popular&lt;/strong&gt; Hugo theme. Replace this content with your own, every page here is an editable example.&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
-			</item>
-			<item>
 				<title>Code of Conduct</title>
 				<link>http://localhost:1313/code-of-conduct/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -145,6 +138,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/authors/nadia/</guid>
 				<description>&lt;p&gt;Nadia founded Rocky Cove Aquarium Club after her third &amp;ldquo;one last tank.&amp;rdquo; She writes most of our recaps.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sobre Nosotros</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;p&gt;Rocky Cove Aquarium Club brings together aquarium keepers of every kind, freshwater, saltwater, planted, brackish, and the ones still cycling their first tank. We meet monthly to share what we&amp;rsquo;re keeping, learn from each other, and trade the occasional bag of shrimp.&lt;/p&gt;&#xA;&lt;p&gt;No experience necessary. Some of our favourite meetings have been carried by a member&amp;rsquo;s very first betta setup.&lt;/p&gt;&#xA;&lt;div class=&#34;g-callout&#34;&gt;&#xA;  &lt;i class=&#34;fa-solid fa-circle-info&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;div class=&#34;g-callout__body&#34;&gt;&#xA;    &lt;div class=&#34;g-callout__title&#34;&gt;This is a Hugo demo site&lt;/div&gt;&#xA;&lt;p&gt;Rocky Cove Aquarium Club is a fictional community, made up to demonstrate the &lt;strong&gt;Popular&lt;/strong&gt; Hugo theme. Replace this content with your own, every page here is an editable example.&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
 			</item>
 	</channel>
 </rss>

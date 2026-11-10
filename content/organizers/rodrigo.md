@@ -2,9 +2,8 @@
 title = "Rodrigo Vélez"
 weight = 10
 role = "Organizador principal y desarrollador"
-photo = "images/organizer-1.png"
+photo = "images/roi.png"
 description = "Organiza eventos del Turina Organizado y mantiene y desarrolla esta web"
-website = "https://averageroi.netlify.app"
 
 [[social]]
   label = "Email"

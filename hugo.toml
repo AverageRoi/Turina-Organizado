@@ -76,7 +76,7 @@ buildFuture = true
 
   [params.community.chat]
     url   = "https://example.com/discord"
-    label = "Join our Discord"
+    label = "Únete a nuestro Discord"
 
   [[params.social]]
     label = "Instagram"

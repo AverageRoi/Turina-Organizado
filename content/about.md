@@ -1,7 +1,7 @@
 +++
-title = "About us"
-eyebrow = "About us"
-lead = "A fictional aquarium club, demo content for the Popular theme."
+title = "Sobre Nosotros"
+eyebrow = ""
+lead = "Una organización de activismo estudiantil."
 +++
 
 Rocky Cove Aquarium Club brings together aquarium keepers of every kind, freshwater, saltwater, planted, brackish, and the ones still cycling their first tank. We meet monthly to share what we're keeping, learn from each other, and trade the occasional bag of shrimp.

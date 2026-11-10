@@ -2,9 +2,9 @@
 title = "Casa"
 
 [hero]
-  eyebrow = "Test · Tal · Tul"
+  eyebrow = "Para todos"
   title = "Una organización de activismo estudiantil"
-  lead = "Tal tal y tal."
+  lead = "Mira lo que estamos haciendo ahora"
   image = "images/hero.png"
   [[hero.ctas]]
     label = "Calendario"
@@ -26,13 +26,13 @@ title = "Casa"
   value = "Lucha"
   label = "por un futuro mejor"
 [[stats]]
-  value = "NS"
-  label = "Ahhhh"
+  value = "Educación"
+  label = "pública y de calidad"
 
 [featuresHead]
-  eyebrow = "Lo que hacemos"
+  eyebrow = "Nuestros objetivos"
   title = "Turina Organizado"
-  lead = "Test."
+  lead = ""
 
 [[features]]
   icon = "fa-solid fa-fish"

@@ -918,9 +918,9 @@ pre:hover .g-copy, .g-copy:focus-visible { opacity: 1; }
 }
 
 .g-empty a.g-btn[href*="calendar.google.com"]:hover {
-    background: #4f9858;
+    background: #ffffff;
     color: #ffffff;
-    border-color: #4f9858;
+    border-color: #ffffff;
     transform: translateY(-3px);
     box-shadow: none;
 }

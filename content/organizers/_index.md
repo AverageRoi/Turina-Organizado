@@ -1,5 +1,5 @@
 +++
-title = "Organizers"
-eyebrow = "The team"
-lead = "Rocky Cove Aquarium Club is run entirely by volunteers. Want to help? We'd love to have you."
+title = "Organizadores"
+eyebrow = "El equipo"
+lead = "Turina Organizado está completamente llevado por voluntarios. ¿Quieres ayudar? Nos encantaría tenerte."
 +++

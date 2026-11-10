@@ -15,7 +15,7 @@ Join the community chat: {{ .url }}
 {{ end }}
 ## Links
 {{ with site.GetPage "/start" }}Start here (newcomers): {{ .Permalink }}
-{{ end }}{{- with site.GetPage "/about" }}About and FAQ: {{ .Permalink }}
+{{ end }}{{- with site.GetPage "/about" }}Sobre Nosotros and FAQ: {{ .Permalink }}
 {{ end }}Events: {{ (site.GetPage "/events").Permalink }}
 Calendar feed (iCalendar): {{ "events/calendar.ics" | absURL }}
 {{ with site.GetPage "/talks" }}Talk archive: {{ .Permalink }}

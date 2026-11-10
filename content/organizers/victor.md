@@ -1,9 +1,9 @@
 +++
-title = "Tom Okada"
+title = "Víctornadoilla"
 weight = 20
 role = "Workshops & tank tours"
 photo = "images/organizer-2.png"
-description = "Runs our hands-on nights and the annual member tank tour. Planted-tank evangelist."
+description = "Personalizate esto para ti jejej."
 
 [[social]]
   label = "Email"

@@ -3,179 +3,180 @@
 # (see PARITY.md).
 
 [skipToContent]
-other = "Skip to content"
+other = "Saltar a contenido"
 
 [primaryNav]
-other = "Primary"
+other = "Primordial"
 
 [toggleMenu]
-other = "Toggle menu"
+other = "Menú"
 
 [nextMeetup]
-other = "Next meetup"
+other = "Próxima reunión"
 
 [venueTba]
-other = "Venue to be announced"
+other = "Espacio por ser anunciado"
 
 [eventCancelled]
-other = "Cancelled"
+other = "Cancelado"
 
 [rsvp]
-other = "RSVP"
+other = "Atiende"
 
 [rsvpExternal]
-other = "RSVP on Luma"
+other = "Atiende en Luma"
 
 [allEvents]
-other = "All events"
+other = "Todos los eventos"
 [allSpeakers]
-other = "All speakers"
+other = "Todos los hablantes"
 
 [allVenues]
-other = "All venues"
+other = "Todos los espacios"
 
 [allOrganizers]
-other = "All organizers"
+other = "Todos los organizadores"
 
 
 [comingUp]
-other = "Coming up"
+other = "Acercándose"
 
 [upcomingEvents]
-other = "Upcoming events"
+other = "Eventos acercándose"
 
 [upcomingLead]
-other = "Save your seat early, space is limited and our rooms fill up."
+other = "Guarda tu asiento de antemano, el espacio es limitado y se llena rápido."
 
 [noUpcomingEvents]
-other = "Nothing on the calendar right now, follow us to hear when the next one lands."
+other = "No hay nada en el calendario ahora mismo, síguenos para enterarte de cuando se anuncia el próximo."
 
 [lookingBack]
-other = "Looking back"
+other = "Mirando atrás"
 
 [pastEvents]
-other = "Past events"
+other = "Eventos pasados"
 
 [venueWanted]
-other = "Venue wanted"
+other = "Espacio querido"
 
 [eventPlanning]
-other = "Planning"
+other = "Planeando"
 
 [confirmed]
-other = "Confirmed"
+other = "Confirmado"
 
 [fromTheBlog]
-other = "From the blog"
+other = "Del blog"
 
 [latestFromCommunity]
-other = "Latest from our community"
+other = "De lo último"
 
 [readTheBlog]
-other = "Read the blog"
+other = "Lee el blog"
 
 [allPosts]
-other = "All posts"
+other = "Todos los posts"
 
 [filterLabel]
-other = "Filter:"
+other = "Filtrar:"
 
 [filterAll]
-other = "All"
+other = "Todos"
 
 [subscribeRss]
-other = "Subscribe via RSS"
+other = "Subscribite via RSS"
 
 [subscribeCalendar]
-other = "Subscribe to calendar"
+other = "Subscribete al calendario"
 
 [subscribeGoogle]
-other = "Add to Google Calendar"
+other = "Añadir a Calendario de Google"
 
 [downloadCalendar]
-other = "Download .ics"
+other = "Descarga .ics"
 
 [watchRecording]
-other = "Watch"
+other = "Ver"
 
 [viewSlides]
-other = "Slides"
+other = "Diapositivas"
 
 [hasRecording]
-other = "Recording available"
+other = "Grabación disponible"
 
 [talks]
-other = "Talks"
+other = "Charlas"
 
 [talksLead]
-other = "Every talk from our past events, with recordings and slides where we have them."
+other = "Cada charla de nuestros eventos pasados con las grabaciones y diapositivas cuando disponible."
 
 [learnMore]
 other = "Aprende más"
 
 [joinChat]
-other = "Join the chat"
+other = "Únete al chat"
 
 [speakerInviteTitle]
-other = "Your name here?"
+other = "¿Tu nombre aquí?"
 
 [speakerInviteBody]
-other = "We are always looking for new voices. Lightning talks welcome, and we will help you prepare."
+other = "Siempre estamos buscando nuevas voces. Charlas rápidas son bienvenidoas y te ayudaremos a prepararlas."
 
 [noPosts]
-other = "No posts yet, check back soon."
+other = "No hay posts todavía, comprueba otra vez pronto."
 
 [ourSpeaker]
-other = "Our speaker"
+other = "Nuestro hablante"
 
 [minRead]
-one = "{{ .Count }} min read"
-other = "{{ .Count }} min read"
+one = "Lectura de {{ .Count }} minuto"
+other = "Lectura de {{ .Count }} minutos"
 
 [authorsBy]
-other = "By"
+other = "Por"
 
 [listSeparator]
 other = ", "
 
 [listSeparatorFinal]
-other = " & "
+other = " y "
 
 [posts]
 other = "Posts"
 
 [guest]
-other = "Guest"
+other = "Invitado"
 
 [website]
-other = "Website"
+other = "Web"
 
 [checklist]
 other = "Checklist"
 
 [copyCode]
-other = "Copy code"
+other = "Copiar código"
 
 [checklistDone]
-other = "done"
+other = "hecho"
 
 [writtenBy]
-other = "Written by {{ . }}"
+other = "Escrito por {{ . }}"
 
 [subscribeRssTitle]
-other = "Follow new posts in any feed reader"
+other = "Sigue nuevos posts en cualquier lector de página?? Revisar esto"
 
 [eyebrowBlog]
 other = "Blog"
 
 [eyebrowEvents]
-other = "Events"
+other = "Eventos"
 
 [eyebrowAuthor]
-other = "Author"
+one = = "Autor"
+other = "Autores"
 
 [eyebrowDocs]
-other = "Docs"
+other = "Documentos"
 
 # Used by the Astro implementation's tag pages; kept here so the key set
 # matches STRINGS in astro-theme-popular's config.ts (see PARITY.md).

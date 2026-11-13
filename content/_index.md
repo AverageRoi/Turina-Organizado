@@ -35,45 +35,45 @@ title = "Casa"
   lead = ""
 
 [[features]]
-  icon = "fa-solid fa-fish"
-  title = "Show & tell nights"
-  body = "Bring photos (or a jar of shrimp) and share what's growing, spawning or misbehaving in your tank."
+  icon = "fa-solid fa-book"
+  title = "Educación Pública"
+  body = "Defendemos la educación pública, la educación de todos. Contra los recortes, la infrafinanciación y el desprecio de los servicios públicos: organización."
 [[features]]
-  icon = "fa-solid fa-seedling"
-  title = "Hands-on workshops"
-  body = "Aquascaping, planted tanks and CO₂, water chemistry, learn by doing, with helpers at every table."
+  icon = "fa-solid fa-comments"
+  title = "Lucha Asamblearia"
+  body = "Estructura autogestionada: Turina xLa Pública se debe a su asamblea general, espacio de debate, propuestas y organización."
 [[features]]
-  icon = "fa-solid fa-arrows-rotate"
-  title = "Swap meets"
-  body = "Trade plants, shrimp and frags with other keepers. One keeper's trimmings are another's new scape."
+  icon = "fa-solid fa-hand-fist"
+  title = "Construir la lucha organizada"
+  body = "Hombro con hombro, estudiantes, docentes, familias y personal educativo debe luchar contra las políticas privatizadoras en educación."
 
 [testimonialsHead]
-  eyebrow = "Kind words"
-  title = "What members say"
+  eyebrow = "Hitos en la Asociación"
+  title = "Los momentos que han marcado la lucha en el Turina."
 
 [[testimonials]]
-  quote = "I joined with one betta. I now run three tanks and have zero regrets."
-  name = "Priya"
-  role = "Freshwater keeper"
+  quote = "Huelga educativa de Mayo de 2024, la que vio nacer a nuestra organización. Nos organizamos en asambleas estudiantiles y arrancamos un ciclo de movilizaciones más que necesario."
+  name = "8/05/2024"
+  role = "El inicio de todo."
 [[testimonials]]
-  quote = "The only place where 'my tank crashed' gets you sympathy and a rescue plan in the same breath."
-  name = "Marcus"
-  role = "Reef keeper"
+  quote = "Huelga Docente Indefinida. Luchamos junto a nuestros profes por una educación pública, con campañas de visibilidad, recaudación y acciones organizadas."
+  name = "14/10/2026-¿?"
+  role = "¡LA HUELGA SIGUE!"
 [[testimonials]]
-  quote = "The swap meet furnished my entire aquascape. My wallet thanks this club."
-  name = "Elle"
-  role = "Plant person"
+  quote = "Huelga General. Participamos junto a los centros del barrio, porque sin vivienda no hay educación. No queremos elegir entre vivir bajo techo o estudiar."
+  name = "11/11/2026"
+  role = "Huelga General por la Vivienda."
 
 [getInvolved]
-  eyebrow = "Community"
-  title = "There's a seat (and a tank) for everyone"
-  lead = "Host a session, offer a venue, or just come watch the fish with us."
+  eyebrow = "LO TENEMOS TODO LISTO - SÓLO FALTAS TÚ"
+  title = "Necesitamos a gente dispuesta a luchar por su futuro, únete a nosotros."
+  lead = "Acércate a la próxima asamblea, únete a nuestros canales de difusión o participa en las próximas movilizaciones."
   [[getInvolved.ctas]]
-    label = "Get involved"
+    label = "ÚNETE"
     url = "/get-involved/"
     variant = "primary"
   [[getInvolved.ctas]]
-    label = "Read the handbook"
+    label = "CONSULTA NUESTRO PROGRAMA"
     url = "/handbook/"
     variant = "outline"
 +++

@@ -1,30 +1,20 @@
 +++
-title = "Organizer Handbook"
+title = "Programa"
 type = "docs"
 weight = 10
-eyebrow = "Organizer handbook"
-lead = "Everything you need to run a great meetup. This is the playbook we hand to every organizer and volunteer, the principles and expectations behind a good event. For the step-by-step checklists, see the Runbooks."
+eyebrow = "Programa de la Asamblea"
+lead = "Principios, guía de actividad y estatutos de la asamblea."
 +++
 
-## Welcome & how to use this
+## Qué es la asamblea de Turina xLa Pública
 
-Thank you for helping run Rocky Cove Aquarium Club. Organizing is a team effort, and you are never expected to do it alone. This handbook is the *why* and *what*, the principles and expectations. The [Runbooks](/runbooks/) are the *how*, tick-box checklists you follow the week of an event.
+La asamblea de Turina xLa Pública busca integrar y organizar las luchas de los distintos sectores del instituto en una única corriente mediante la representación estudiantil, en concreto, integra a colectivos de alumnos en defensa de la educación pública y los derechos del estudiantado obrero. 
 
-{{% callout tone="info" title="Our north star" %}}
-Every decision comes back to one question: *will this help someone who has never been to a meetup feel welcome here?* If yes, we're on the right track.
-{{% /callout %}}
+Consulta este documento para conocer los estatutos, características y el programa de nuestra asamblea. 
 
-Keep this handbook open in a browser tab during planning. Share it freely with new volunteers, nothing here is secret.
+## Roles y responsabilidades
 
-## Roles & responsibilities
 
-We keep roles lightweight. One person can wear several hats, and hats rotate so no one burns out.
-
-- **Lead organizer**: owns the calendar, confirms each event, and is the final point of contact.
-- **Venue coordinator**: sources and confirms the space, checks accessibility, and is the on-site contact for the host.
-- **Session wrangler**: finds and briefs session hosts, collects intros and titles, and looks after them on the night.
-- **Comms lead**: creates the event page, writes announcements, and posts recaps across our channels.
-- **Welcome host**: the friendly face at the door: greets arrivals and makes sure no newcomer stands alone.
 
 {{% callout tone="tip" title="Two-deep rule" %}}
 Aim for at least two organizers at every event. If one person is unwell or stuck in traffic, the meetup still happens.

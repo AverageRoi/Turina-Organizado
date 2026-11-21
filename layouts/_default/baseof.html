@@ -4,7 +4,7 @@
 <head>
   {{ partial "head.html" . }}
 </head>
-<body class="{{ if .IsHome }}is-home{{ end }}" data-copy-label="{{ i18n "copyCode" }}" data-checklist-done="{{ i18n "checklistDone" }}">
+<body class="{{ if .IsHome }}is-home{{ end }}{{ if and .IsSection (eq .Section "events") }} is-events{{ end }}" data-copy-label="{{ i18n "copyCode" }}" data-checklist-done="{{ i18n "checklistDone" }}">
   <a class="g-skip" href="#main">{{ i18n "skipToContent" }}</a>
   {{ partial "notice.html" . }}
   {{ partial "header.html" . }}

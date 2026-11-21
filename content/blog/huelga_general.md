@@ -3,7 +3,7 @@ title = "Huelga indefinida en educación"
 date = 2026-10-14
 author = "Turina xLa Pública"
 description = "Arranca la huelga indefinida por la educación pública."
-image = "images/post-3.png"
+image = "images/huelga_general.png"
 tags = ["huelga-indefinida", "educacion-publica"]
 +++
 

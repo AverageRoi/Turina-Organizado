@@ -877,22 +877,63 @@ pre:hover .g-copy, .g-copy:focus-visible { opacity: 1; }
 .g-pullquote figcaption { margin-top: 0.5rem; font-size: var(--text-sm); color: var(--text-muted); font-style: normal; }
 .g-pullquote figcaption::before { content: "\2014 \00a0"; }
 
-/* Eventos vacíos en index */
+/* Más contraste en las subpáginas con el verde oscuro que ya usa el inicio.
+   Solo dentro de main, para conservar los enlaces claros del pie de página. */
+:where(body:not(.is-home)) main {
+    --text-link: #34733d;
+    --gold-700: var(--text-link);
+}
+:where(body:not(.is-home)) .g-pagehero { --text-link: var(--text-body); }
+:where(body:not(.is-home)) .g-event__time { color: var(--text-body); }
+:where(body:not(.is-home)) .g-persona__role { color: var(--text-link); }
+:where(body:not(.is-home) main) .g-persona__socials a { color: var(--text-muted); }
+
+/* El fondo negro se usa en el inicio. Los avisos informativos necesitan un
+   fondo claro; los consejos y advertencias conservan sus colores. */
+:where(body:not(.is-home)) .g-callout:not(.g-callout--tip):not(.g-callout--warn) {
+    background: var(--gold-50);
+}
+
+:where(body:not(.is-home)) .g-notice,
+:where(body:not(.is-home)) .g-notice a,
+:where(body:not(.is-home)) .g-notice__inner > i { color: var(--text-strong); }
+
+/* Borde visible al navegar con el teclado, también sobre el pie oscuro. */
+:where(body:not(.is-home)) :focus-visible {
+    outline: 2px solid var(--text-strong);
+    outline-offset: 3px;
+}
+:where(body:not(.is-home)) .g-footer :focus-visible { outline-color: var(--white); }
+:where(body:not(.is-home)) .g-anchor:focus-visible { opacity: 1; }
+
+/* Evita que los botones del calendario y los títulos largos invadan
+   los márgenes en móviles estrechos. */
+:where(body.is-events) .g-empty .g-row { max-width: 100%; }
+:where(body.is-events) .g-empty .g-btn {
+    max-width: 100%;
+    white-space: normal;
+    text-align: center;
+}
+:where(body:not(.is-home)) .g-prose :is(h2, h3, h4, h5, h6) { overflow-wrap: anywhere; }
+
+/* Eventos vacíos: espaciado compartido y botones exclusivos del inicio.
+   :where() mantiene la prioridad de las reglas para no cambiar el inicio. */
 
 /* Fondo de la sección */
-.g-bg-wash-soft:has(.g-empty) { background: #000000; }
+:where(body.is-home) .g-bg-wash-soft:has(.g-empty) { background: #000000; }
 /* Texto */
-.g-empty .g-lead { color: #ffffff; max-width: 650px; }
+.g-empty .g-lead { max-width: 650px; }
+:where(body.is-home) .g-empty .g-lead { color: #ffffff; }
 /* Icono del calendario */
 .g-empty .g-medallion { background: #4f9858; color: #ffffff; }
 /* Espaciado */
 .g-empty { padding: 70px 20px; gap: 25px; }
-/* Botón de Discord */
-.g-empty .g-btn--primary { background: #4f9858; color: #ffffff; border: 2px solid #4f9858; border-radius: 12px;transition: all 0.2s ease; }
-/* Hover */
-.g-empty .g-btn--primary:hover { background: #34733d; color: #ffffff; border-color: #34733d; transform: translateY(-3px); box-shadow: none; }
-/* Subscribe to calendar */
-.g-empty a.g-btn[href^="webcal:"] {
+/* Botón para organizarse */
+:where(body.is-home) .g-empty .g-btn--primary { background: #4f9858; color: #ffffff; border: 2px solid #4f9858; border-radius: 12px;transition: all 0.2s ease; }
+/* Al pasar el cursor */
+:where(body.is-home) .g-empty .g-btn--primary:hover { background: #34733d; color: #ffffff; border-color: #34733d; transform: translateY(-3px); box-shadow: none; }
+/* Suscripción al calendario */
+:where(body.is-home) .g-empty a.g-btn[href^="webcal:"] {
     background: transparent;
     color: #ffffff;
     border: 2px solid #ffffff;
@@ -900,7 +941,7 @@ pre:hover .g-copy, .g-copy:focus-visible { opacity: 1; }
     transition: all 0.2s ease;
 }
 
-.g-empty a.g-btn[href^="webcal:"]:hover {
+:where(body.is-home) .g-empty a.g-btn[href^="webcal:"]:hover {
     background: #ffffff;
     color: #000000;
     border-color: #ffffff;
@@ -908,8 +949,8 @@ pre:hover .g-copy, .g-copy:focus-visible { opacity: 1; }
     box-shadow: none;
 }
 
-/* GOOGLE CALENDAR */
-.g-empty a.g-btn[href*="calendar.google.com"] {
+/* Calendario de Google */
+:where(body.is-home) .g-empty a.g-btn[href*="calendar.google.com"] {
     background: transparent;
     color: #ffffff;
     border: 2px solid #ffffff;
@@ -917,7 +958,7 @@ pre:hover .g-copy, .g-copy:focus-visible { opacity: 1; }
     transition: all 0.2s ease;
 }
 
-.g-empty a.g-btn[href*="calendar.google.com"]:hover {
+:where(body.is-home) .g-empty a.g-btn[href*="calendar.google.com"]:hover {
     background: #ffffff;
     color: #000000;
     border-color: #ffffff;
@@ -925,8 +966,8 @@ pre:hover .g-copy, .g-copy:focus-visible { opacity: 1; }
     box-shadow: none;
 }
 
-/* DOWNLOAD ICS */
-.g-empty a.g-btn[download] {
+/* Descarga del archivo .ics */
+:where(body.is-home) .g-empty a.g-btn[download] {
     background: transparent;
     color: #4f9858;
     border: 2px solid transparent;
@@ -934,7 +975,7 @@ pre:hover .g-copy, .g-copy:focus-visible { opacity: 1; }
     transition: all 0.2s ease;
 }
 
-.g-empty a.g-btn[download]:hover {
+:where(body.is-home) .g-empty a.g-btn[download]:hover {
     background: #4f9858;
     color: #ffffff;
     border-color: #4f9858;

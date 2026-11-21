@@ -27,33 +27,5 @@
 				<guid>http://localhost:1313/tags/huelga-indefinida/</guid>
 				<description></description>
 			</item>
-			<item>
-				<title>Beginners</title>
-				<link>http://localhost:1313/tags/beginners/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/beginners/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Field-Trip</title>
-				<link>http://localhost:1313/tags/field-trip/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/field-trip/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Panel</title>
-				<link>http://localhost:1313/tags/panel/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/panel/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Plants</title>
-				<link>http://localhost:1313/tags/plants/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/plants/</guid>
-				<description></description>
-			</item>
 	</channel>
 </rss>

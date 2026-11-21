@@ -8,7 +8,7 @@ lead = "Principios, guía de actividad y estatutos de la asamblea."
 
 ## Qué es la asamblea de Turina xLa Pública
 
-La asamblea de Turina xLa Pública busca integrar y organizar las luchas de los distintos sectores del instituto en una única corriente mediante la representación estudiantil, en concreto, integra a colectivos de alumnos en defensa de la educación pública y los derechos del estudiantado obrero. 
+La asamblea de Turina xLa Pública busca integrar y organizar las luchas de los distintos sectores del instituto en una única corriente mediante la representación estudiantil, en concreto, integra a colectivos de alumnos en defensa de la educación pública y los derechos del estudiantado. 
 
 Consulta este documento para conocer los estatutos, características y el programa de nuestra asamblea. 
 
@@ -16,58 +16,42 @@ Consulta este documento para conocer los estatutos, características y el progra
 
 
 
-{{% callout tone="tip" title="Two-deep rule" %}}
-Aim for at least two organizers at every event. If one person is unwell or stuck in traffic, the meetup still happens.
+{{% callout tone="tip" title="Cada uno hace lo que mejor sabe y toda la ayuda es vienvenida" %}}
+Nos repartimos roles y responsabilidades para llevar a cabo tareas y acciones concretas en las asambleas. ¡Acércate y muestra lo que puedes aportar!
 {{% /callout %}}
 
-## Meeting cadence & format
+## Cómo se conforman las asambleas
 
-We aim for one gathering a month, usually a weekday evening from 6:00 to 8:30 PM. Formats rotate to keep things fresh and to serve everyone:
+Pueden decidir todas las asambleas anunciadas por todos los canales de difusión de "Turina xLa Pública" con, al menos, 24 horas de antelación, así como las que tengan suficientes miembros como para considerarse representativas del alumnado (~5%, ahora mismo).
 
-| Format | What happens | Good for | Who you need |
-|---|---|---|---|
-| **Session night** | One or two hosts lead a topic, with time for questions at the end. | Most months. It is the easiest format to run and the easiest to find a host for. | One host, plus an organizer on the door. |
-| **Hands-on night** | Everyone participates and makes something, with helpers roaming the room to unstick people. | Members who learn by doing, and topics that are hard to follow from a chair. | One lead and two or three helpers. |
-| **Show & tell** | Five-minute shares from anyone who wants to show what they have been working on. | First-time speakers, and months when nobody has a full session ready. | One MC who keeps time kindly. |
-| **Social** | A lower-effort evening to connect, with no agenda beyond conversation. | Quiet months, holidays, and the stretch after a big event. | One organizer to pick the spot and greet people. |
+La asamblea toma todas las decisiones mediante votaciones por mayoría simple, buscando siempre consensos en los puntos que presenten disputas. 
 
-A dependable rhythm matters more than a perfect one. If a month is quiet, run a small social rather than skipping entirely.
+## Involucración y contacto con otras asambleas y organizaciones
 
-## Choosing a venue
+La asamblea mantendrá una estrecha relación con la comunidad educativa del centro, la representación del  alumnado en el Consejo Escolar, la Junta de Delegados y Delegadas y la Asociación de Madres y Padres del Alumnado del Turina. 
 
-A good venue is the single biggest lever on how welcoming an event feels. Look for:
+Además, buscaremos (durante este periodo de movilización) obtener una representación justa y proporcional en la asamblea docente del turina, a fin de materializar un frente unido.
 
-- Capacity for 20–40 people, seated, with room to mingle.
-- Step-free access and an accessible washroom, this is non-negotiable.
-- A screen or space suited to your format, and any equipment your sessions need.
-- Within a short walk of transit or with easy parking.
-- A host contact who can let us in, and stay or delegate a key holder.
+Se buscará mantener contacto puntual con asambleas, como las del Fortuny o el Beatriz Galindo, o federaciones de asambleas, como el Frente de Estudiantes. 
 
 {{% callout tone="warn" title="Always visit first" %}}
-Confirm the room, the setup and the accessible entrance in person (or via a trusted host) before you announce the event. Surprises on the night are stressful for everyone.
+No pertenecemos al Sindicato de Estudiantes ni estamos afiliados con ninguna militancia política. 
 {{% /callout %}}
 
-## Finding session hosts
+## Militancia y pertenencia
 
-Great hosts are all around us, including in our own audience. We actively lower the bar to leading a session:
+Obtiene la condición de miembro de la asamblea cualquier alumno o alumna del centro que así lo manifieste durante la asistencia a una reunión de la asamblea.
 
-- Invite first-timers and offer to co-host or rehearse with them.
-- Keep an ongoing list of members who've mentioned a topic they love.
-- Ask past attendees what they'd like to learn, then find someone to lead it.
-- Reach out to neighbouring community groups for cross-promotion.
-- Always confirm a title, a 2–3 sentence intro, and a photo for promotion.
+Solamente podrán votar en la asamblea los miembros de la misma. Además, se buscará asignar tareas y mayores responsabilidades a aquellos miembros que lleven más tiempo.
 
-What we tell every new host: *no experience necessary. Whether it's your first time leading a session or your fiftieth, we welcome you, and we'll help you prepare.*
+Podrá ser vetado de la asamblea si así lo decide la misma quien:
+- Actúe en contra de los intereses de la asamblea o la defensa de la educación pública.
+- Dañe pública e intencionadamente la imagen de la asamblea y los miembros de la misma.
+- Obstaculice o impida las acciones, votaciones y decisiones colectivas de la asamablea.
 
-## Promotion & communications
+## Asociación política
 
-Consistency beats cleverness. Post early, post again, and always include the essentials: what, when, where, and how to RSVP.
-
-- Create the event on your RSVP platform as the single source of truth.
-- Announce ~2 weeks out, remind ~3 days out, and post a "tonight!" nudge on the day.
-- Cross-post to your usual channels.
-- Use a consistent poster template so every announcement looks unmistakably yours.
-- Write a short recap within a week, photos (with consent) and a thank-you to hosts.
+La asamblea no está, ni estará, vinculada a ninguna asociación política.
 
 ## Budget & sponsorship
 

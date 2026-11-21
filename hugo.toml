@@ -20,17 +20,17 @@ buildFuture = true
   unsafe = true
 
 [[menu.main]]
-  name = "About"
+  name = "Información"
   url = "/about/"
   weight = 10
 [[menu.main]]
-  name = "About us"
-  parent = "About"
+  name = "Conócenos"
+  parent = "Información"
   url = "/about/"
   weight = 10
 [[menu.main]]
   name = "Organizers"
-  parent = "About"
+  parent = "Información"
   url = "/organizers/"
   weight = 20
 [[menu.main]]
@@ -38,11 +38,11 @@ buildFuture = true
   url = "/blog/"
   weight = 20
 [[menu.main]]
-  name = "Events"
+  name = "Calendario"
   url = "/events/"
   weight = 30
 [[menu.main]]
-  name = "Handbook"
+  name = "Programa"
   url = "/handbook/"
   weight = 50
 
@@ -71,12 +71,12 @@ buildFuture = true
     icon  = "fa-solid fa-calendar"
 
   [params.notice]
-    text = "Huelga general convocada. **Lo qué haremos** nosotros: [ver](https://example.com)."
-    url  = "https://www.ugt.es/11n-huelga-general-salarios-vivienda-precios"
+    text = "Ante su censura, **organización de base**."
+    url  = "/blog/censura"
 
   [params.community.chat]
-    url   = "https://example.com/discord"
-    label = "Únete a nuestro Discord"
+    url   = "/get-involved"
+    label = "Organízate"
 
   [[params.social]]
     label = "Instagram"
@@ -93,7 +93,7 @@ buildFuture = true
   [[params.social]]
     label = "Email"
     icon  = "fa-solid fa-envelope"
-    url   = "mailto:hello@example.com"
+    url   = "mailto:representacionalumnosturina@gmail.com"
 
   [params.footer]
     tagline = "Fish · Plants · Community, a Hugo demo site for the Popular theme"
@@ -114,18 +114,18 @@ buildFuture = true
     [[params.footer.columns]]
       title = "Get involved"
       [[params.footer.columns.links]]
-        label = "Host a session"
-        url = "/get-involved/"
+        label = "Contáctanos"
+        url = "/get-involved/#contacta-con-nosotros"
       [[params.footer.columns.links]]
-        label = "Offer a venue"
-        url = "/get-involved/"
+        label = "Organízate"
+        url = "/get-involved/#organízate-con-la-asamblea"
       [[params.footer.columns.links]]
         label = "Organizers"
         url = "/organizers/"
     [[params.footer.columns]]
-      title = "Organizers"
+      title = "Turina xLa Pública"
       [[params.footer.columns.links]]
-        label = "Organizer Handbook"
+        label = "Programa"
         url = "/handbook/"
       [[params.footer.columns.links]]
         label = "Meetup Runbooks"

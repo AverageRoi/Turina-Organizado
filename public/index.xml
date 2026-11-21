@@ -10,7 +10,7 @@
 		
 		
 		
-			<lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
@@ -49,46 +49,25 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Ante su censura, organización.</title>
+				<link>http://localhost:1313/blog/censura/</link>
+				<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/censura/</guid>
+				<description>&lt;h2 id=&#34;ante-su-censura-organización&#34;&gt;Ante su censura, organización.&lt;a class=&#34;g-anchor&#34; href=&#34;#ante-su-censura-organizaci%c3%b3n&#34; aria-hidden=&#34;true&#34; tabindex=&#34;-1&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;La presión sobre la Consejera de Educación sigue creciendo&lt;/strong&gt;: sabe que ya no hay marcha atrás, los y las docentes están decididas a forzar su dimisión, y &lt;strong&gt;ella sabe que tienen el apoyo de familias, alumnado y el grueso de la población&lt;/strong&gt;. Es esto por lo que &lt;strong&gt;Zarzalejo trata ahora de vetar, prohibir y censurar.&lt;/strong&gt; Parece que ver los centros teñidos de verde, con pancartas y corazones recortados de colores en  apoyo a las docentes en huelga le incomodan.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Concierto xLa Pública</title>
+				<link>http://localhost:1313/events/concierto/</link>
+				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/concierto/</guid>
+				<description>&lt;p&gt;Toda la comunidad educativa se une alrededor de la música para apoyar al profesorado en huelga. Acercáte y no te quedes sin tu pegatina, chapa y camiseta.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Huelga indefinida en educación</title>
 				<link>http://localhost:1313/blog/educacionpublica/</link>
 				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/blog/educacionpublica/</guid>
 				<description>&lt;h2 id=&#34;arranca-la-huelga-indefinida-en-educación&#34;&gt;Arranca la huelga indefinida en educación.&lt;a class=&#34;g-anchor&#34; href=&#34;#arranca-la-huelga-indefinida-en-educaci%c3%b3n&#34; aria-hidden=&#34;true&#34; tabindex=&#34;-1&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Tras meses de organización, asambleas y presiones, hemos llegado a la huelga general más preparados que nunca.&lt;/p&gt;&#xA;&lt;p&gt;Docentes y estudiantes del Turina participan en las convocatorias, con piquetes en el centro desde las 8 am; y en los centros de educación primaria del barrio, posteriormente.&lt;/p&gt;&#xA;&lt;p&gt;A las 12:00, nos sumamos a la concentración en Sol, junto a la acampada, que logra llenar la plaza y las calles aledañas. Finalmente, marchamos hasta la consejería y, a pesar de la fuerte presencia policial, finalizamos la concentración sin incidentes.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Shrimp social &amp; swap meet</title>
-				<link>http://localhost:1313/events/shrimp-social-swap/</link>
-				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/events/shrimp-social-swap/</guid>
-				<description>&lt;p&gt;Our favourite night of the season: trade cuttings, colonies and coral frags, and meet the people behind the tanks.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Aquascaping night: planted tanks &amp; CO₂</title>
-				<link>http://localhost:1313/events/aquascaping-night/</link>
-				<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/events/aquascaping-night/</guid>
-				<description>&lt;p&gt;Layouts, substrate, light and the great CO₂ question. Bring photos of your scape, or your plans for one.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>New tank 101</title>
-				<link>http://localhost:1313/events/new-tank-101/</link>
-				<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/events/new-tank-101/</guid>
-				<description>&lt;p&gt;A gentle, hands-on introduction to setting up your first aquarium: tank size, cycling, stocking, and the mistakes we all made so you don&amp;rsquo;t have to.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Freshwater vs saltwater: the friendly debate</title>
-				<link>http://localhost:1313/events/fresh-vs-salt/</link>
-				<pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/events/fresh-vs-salt/</guid>
-				<description>&lt;p&gt;Two panels, one question, zero casualties. What each side wishes the other knew.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Field trip: Vancouver Aquarium</title>
-				<link>http://localhost:1313/events/vancouver-aquarium-trip/</link>
-				<pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/events/vancouver-aquarium-trip/</guid>
-				<description>&lt;p&gt;A group day trip to see how the professionals do it, and argue about which exhibit has the best aquascape.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Code of Conduct</title>
@@ -117,6 +96,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/about/</guid>
 				<description>&lt;p&gt;Rocky Cove Aquarium Club brings together aquarium keepers of every kind, freshwater, saltwater, planted, brackish, and the ones still cycling their first tank. We meet monthly to share what we&amp;rsquo;re keeping, learn from each other, and trade the occasional bag of shrimp.&lt;/p&gt;&#xA;&lt;p&gt;No experience necessary. Some of our favourite meetings have been carried by a member&amp;rsquo;s very first betta setup.&lt;/p&gt;&#xA;&lt;div class=&#34;g-callout&#34;&gt;&#xA;  &lt;i class=&#34;fa-solid fa-circle-info&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;div class=&#34;g-callout__body&#34;&gt;&#xA;    &lt;div class=&#34;g-callout__title&#34;&gt;This is a Hugo demo site&lt;/div&gt;&#xA;&lt;p&gt;Rocky Cove Aquarium Club is a fictional community, made up to demonstrate the &lt;strong&gt;Popular&lt;/strong&gt; Hugo theme. Replace this content with your own, every page here is an editable example.&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>ÚNETE A LA ASAMBLEA</title>
+				<link>http://localhost:1313/get-involved/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/get-involved/</guid>
+				<description>&lt;h2 id=&#34;contacta-con-nosotros&#34;&gt;Contacta con nosotros&lt;a class=&#34;g-anchor&#34; href=&#34;#contacta-con-nosotros&#34; aria-hidden=&#34;true&#34; tabindex=&#34;-1&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;¿Tienes dudas? ¿No sabes cómo actuar? ¿Aún no te has decidido a unirte a la asamblea pero quieres colaborar puntualmente en algo?&lt;/p&gt;&#xA;&lt;p&gt;¡Escríbenos un correo y nos ponemos en contacto contigo!&lt;/p&gt;&#xA;&lt;a class=&#34;g-btn g-btn--primary&#34; href=&#34;mailto:representacionalumnosturina@gmail.com?%20subject=Informaci%c3%b3n%20Asamblea&#34;&gt;&lt;i class=&#34;fa-solid fa-hand-sparkles&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;Escríbenos&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&#xA;&lt;h2 id=&#34;organízate-con-la-asamblea&#34;&gt;Organízate con la asamblea&lt;a class=&#34;g-anchor&#34; href=&#34;#organ%c3%adzate-con-la-asamblea&#34; aria-hidden=&#34;true&#34; tabindex=&#34;-1&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Siempre buscamos nuevas voces de todos los cursos que quieran hacerse oír y colaborar. Estamos en pleno proceso reorganizativo, así que únete hoy y colabora. Consulta nuestro &lt;a href=&#34;http://localhost:1313/handbook/&#34;&gt;programa&lt;/a&gt; para tener toda la información sobre nosotros.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

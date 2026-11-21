@@ -73,12 +73,12 @@
   </url><url>
     <loc>http://localhost:1313/code-of-conduct/</loc>
   </url><url>
-    <loc>http://localhost:1313/get-involved/</loc>
-  </url><url>
     <loc>http://localhost:1313/organizers/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/nadia/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/get-involved/</loc>
   </url>
 </urlset>

@@ -1,27 +1,21 @@
 +++
-title = "Get involved"
-eyebrow = "Get involved"
-lead = "Our community runs on people who step up, to host a session, to offer a space, to sponsor, and simply to show up. Here's how you can help."
+title = "ÚNETE A LA ASAMBLEA"
+eyebrow = "ORGANÍZATE"
+lead = "Haz que se escuche tu voz junto a la de tus compañeros y compañeras en la asamblea estudiantil del Turina."
 +++
 
-## Host a session
+## Contacta con nosotros
 
-We're always looking for members to lead a session! No experience necessary. Whether it's your first time or your fiftieth, we welcome you, and we'll help you prepare, rehearse, or even co-host.
+¿Tienes dudas? ¿No sabes cómo actuar? ¿Aún no te has decidido a unirte a la asamblea pero quieres colaborar puntualmente en algo?
 
-Sessions run 20–30 minutes; show & tell spots are just five. Bring anything our community would love.
+¡Escríbenos un correo y nos ponemos en contacto contigo!
 
-{{< button url="mailto:hello@example.com?subject=Session%20idea" label="Suggest a session" icon="fa-solid fa-hand-sparkles" >}}
+{{< button url="mailto:representacionalumnosturina@gmail.com? subject=Información%20Asamblea" label="Escríbenos" icon="fa-solid fa-hand-sparkles" >}}
 
-## Offer a venue
+## Organízate con la asamblea
 
-Have a room for 20–40 people, near transit, with step-free access? You can host our next gathering. Community halls, cafés and workplaces make wonderful hosts. See the [venue checklist](/handbook/) for what we look for.
+Siempre buscamos nuevas voces de todos los cursos que quieran hacerse oír y colaborar. Estamos en pleno proceso reorganizativo, así que únete hoy y colabora. Consulta nuestro [programa](/handbook/) para tener toda la información sobre nosotros.
 
-We'll bring the community and the program; you bring the room. We always thank our hosts publicly by name.
+¡Escríbenos y organízate!
 
-{{< button url="mailto:hello@example.com?subject=Venue" label="Get in touch" variant="outline" icon="fa-solid fa-location-dot" >}}
-
-## Sponsor & support
-
-Rocky Cove Aquarium Club is free to attend and runs on in-kind support. Sponsors can provide space, food or supplies, and are thanked by name with a link at the event and in our recap.
-
-{{< button url="https://example.com/donate" label="Support the club" icon="fa-solid fa-heart" >}}
+{{< button url="mailto:representacionalumnosturina@gmail.com? subject=Quiero%20organizarme" label="Organízate" icon="fa-solid fa-users-line" >}}

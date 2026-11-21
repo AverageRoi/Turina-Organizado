@@ -4,7 +4,7 @@ Una organización de activismo estudiantil.
 
 No upcoming events are scheduled right now.
 
-Join the community chat: https://example.com/discord
+Join the community chat: /get-involved
 
 ## Links
 Sobre Nosotros and FAQ: http://localhost:1313/about/

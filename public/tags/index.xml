@@ -10,84 +10,70 @@
 		
 		
 		
-			<lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Educacion-Publica</title>
 				<link>http://localhost:1313/tags/educacion-publica/</link>
-				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+				<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/educacion-publica/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Huelga</title>
-				<link>http://localhost:1313/tags/huelga/</link>
-				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/huelga/</guid>
+				<title>Huelga-Indefinida</title>
+				<link>http://localhost:1313/tags/huelga-indefinida/</link>
+				<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/huelga-indefinida/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Beginners</title>
+				<link>http://localhost:1313/tags/beginners/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/beginners/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Field-Trip</title>
+				<link>http://localhost:1313/tags/field-trip/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/field-trip/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Panel</title>
+				<link>http://localhost:1313/tags/panel/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/panel/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Plants</title>
+				<link>http://localhost:1313/tags/plants/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/plants/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Social</title>
 				<link>http://localhost:1313/tags/social/</link>
-				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/social/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Swap</title>
 				<link>http://localhost:1313/tags/swap/</link>
-				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/swap/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Plants</title>
-				<link>http://localhost:1313/tags/plants/</link>
-				<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/plants/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Workshop</title>
 				<link>http://localhost:1313/tags/workshop/</link>
-				<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/workshop/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Beginners</title>
-				<link>http://localhost:1313/tags/beginners/</link>
-				<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/beginners/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Panel</title>
-				<link>http://localhost:1313/tags/panel/</link>
-				<pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/panel/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Field-Trip</title>
-				<link>http://localhost:1313/tags/field-trip/</link>
-				<pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/field-trip/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Community</title>
-				<link>http://localhost:1313/tags/community/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/community/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Photos</title>
-				<link>http://localhost:1313/tags/photos/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/photos/</guid>
 				<description></description>
 			</item>
 	</channel>

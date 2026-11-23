@@ -3,7 +3,7 @@ title = "Programa"
 type = "docs"
 weight = 10
 eyebrow = "Programa de la Asamblea"
-lead = "Principios, guía de actividad y estatutos de la asamblea."
+lead = "Principios, guía de actividad y estatutos de la asamblea. | PROVISIONAL"
 +++
 
 ## Qué es la asamblea de Turina xLa Pública
@@ -14,9 +14,7 @@ Consulta este documento para conocer los estatutos, características y el progra
 
 ## Roles y responsabilidades
 
-
-
-{{% callout tone="tip" title="Cada uno hace lo que mejor sabe y toda la ayuda es vienvenida" %}}
+{{% callout tone="tip" title="Cada uno hace lo que mejor sabe y toda la ayuda es bienvenida" %}}
 Nos repartimos roles y responsabilidades para llevar a cabo tareas y acciones concretas en las asambleas. ¡Acércate y muestra lo que puedes aportar!
 {{% /callout %}}
 
@@ -34,11 +32,11 @@ Además, buscaremos (durante este periodo de movilización) obtener una represen
 
 Se buscará mantener contacto puntual con asambleas, como las del Fortuny o el Beatriz Galindo, o federaciones de asambleas, como el Frente de Estudiantes. 
 
-{{% callout tone="warn" title="Always visit first" %}}
-No pertenecemos al Sindicato de Estudiantes ni estamos afiliados con ninguna militancia política. 
+{{% callout tone="warn" title="Asociación política" %}}
+No pertenecemos al Sindicato de Estudiantes ni estamos afiliados con ninguna militancia política particular. 
 {{% /callout %}}
 
-## Militancia y pertenencia
+## Pertenencia a la asamblea
 
 Obtiene la condición de miembro de la asamblea cualquier alumno o alumna del centro que así lo manifieste durante la asistencia a una reunión de la asamblea.
 
@@ -49,54 +47,32 @@ Podrá ser vetado de la asamblea si así lo decide la misma quien:
 - Dañe pública e intencionadamente la imagen de la asamblea y los miembros de la misma.
 - Obstaculice o impida las acciones, votaciones y decisiones colectivas de la asamablea.
 
-## Asociación política
+## Valores de la asamblea
 
-La asamblea no está, ni estará, vinculada a ninguna asociación política.
+**Nuesta principal reivindicación es la defensa de la educación pública, en todas sus etapas, especialmente de los derechos del alumnado obrero y nuestro centro. [Consulta nuestras demandas aquí]()**
 
-## Budget & sponsorship
+**Igualdad de oportunidades:** entendemos la educación de calidad como la única vía para que el alumnado acceda a las mismas oportunidades, por ello, la educación debe garantizar la igualdad de oportunidades del alumnado y la infancia.
 
-Our events are free to attend and run on a shoestring. Most costs are covered in-kind by venue hosts.
+**Igualdad de género y feminismo:** educación de tod@s y para tod@s. No podemos negar la discriminación sexista histórica en el acceso a educación de calidad. Por ello, reivindicamos una educación feminista, igualitaria y que camine hacia un mundo mejor. Educación Sexual Integral en todas las aulas. Protocolos antisexistas en todos los centros.
 
-- Typical costs: light snacks and drinks. Venues and equipment are usually donated.
-- Ask sponsors for in-kind support (space, food, supplies) before cash.
-- Thank every sponsor publicly, by name, with a link.
-- Keep a simple shared spreadsheet of what was spent and who paid.
-- Never require payment or personal financial details from attendees.
+**Vivienda:** es imposible estudiar bajo la amenaza de un desahucio. Además, se expulsa al estudiantado obrero de sus ciudades y sus universidades, por no poder vivir y estudiar. No queremos elegir entre estudiar y trabajar.
 
-## Safety & Code of Conduct
+**Salud mental:** reivindicamos la necesidad del alumnado de acceder a recursos públicos y de calidad en materia de salud mental. Más orientadoras, más PSC, más PTs, pero también más psicólogas y psiquiatras en la seguridad social y una mejor atención coordinada entre los servicios públicos. Educación en salud mental y desarrollo de herramientas contra la ansiedad y visibilización de los trastornos de salud mental que afectan especialmente a la juventud. 
 
-Every event runs under our [Code of Conduct](/code-of-conduct/). As an organizer you are also a first responder for it.
+## Líneas de actuación
 
-- Open every event with a brief, warm reminder of the Code of Conduct.
-- Make sure attendees know which organizers to approach with a concern.
-- Take every report seriously, listen without judgement, and protect the reporter's privacy.
-- You can ask anyone to leave whose behaviour makes others unsafe, you have that authority.
-- Debrief with a co-organizer after any incident and log what happened privately.
+La asamblea respetará, en sus acciones, la ley y se amparará en los derechos de la ciudadanía a la libre expresión, reunión y manifestación. 
 
-{{% callout tone="warn" title="When in doubt, prioritize safety" %}}
-It is always better to pause an activity, remove a disruptive person, or end early than to let a harmful situation continue. The community will back you.
-{{% /callout %}}
+Además, se buscará visibilizar la lucha de la asamblea por los medios que esta considere necesarios y extender la lucha a otros centros.
 
-## Day-of logistics
+## Grupo permanente de trabajo
 
-The [Day-of runbook](/runbooks/) has the full checklist. In short:
+Se conformará un grupo permanente de trabajo con capacidad ejecutiva para particularizar y materializar las acciones acordadas en la asamblea, coordinar el trabajo de sus miembros y llevar a cabo de manera más fluida (sin pasar por la asamblea) aquellas funciones que le otorgue la asamblea. En el grupo permanente de trabajo habrá presentes y tendrán voto:
+- Un secretario/a, que además recogerá las actas de las reuniones de la asamblea y actuará como representante de la misma en última instancia. 
+- Un portavoz, que además se encargará de representar públicamente a la asamblea y compartir sus decisiones y acciones.
+- Un delegado/a de comunicación, que además se encargará de mantener actualizada la presencia en redes de la asamblea y coordinarse con otros centros.
+- Tantos vocales como decida la asamblea.
 
-- Arrive 45–60 minutes early to set up the space and the welcome table.
-- Put up simple signage from the entrance to the room.
-- Greet every person as they arrive; hand newcomers a friendly hello, not a form.
-- Start within 10 minutes of the hour; keep sessions to time so people catch transit home.
-- Take a few photos for the recap, always ask before photographing anyone.
+## Renovación de estos estatutos
 
-## After the event
-
-The event isn't over when the room empties. A tidy wrap-up keeps hosts happy and the community informed.
-
-- Leave the venue cleaner than you found it and thank the host in person.
-- Send thank-you notes to hosts and sponsors within 48 hours.
-- Publish a recap post with photos and shout-outs within a week.
-- Note what worked and what didn't in the shared organizer log.
-- Lock in a date for next month before momentum fades.
-
-{{% callout tone="tip" title="Better late than never" %}}
-If a recap slips, publish it anyway. Our community would rather read a late recap than none at all.
-{{% /callout %}}
+Estos estatutos son susceptibles de ser alterados a propuesta de cualquier miembro de la asamblea durante una reunión, sometiéndose ese cambio a votación en la siguiente. 

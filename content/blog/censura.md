@@ -2,10 +2,12 @@
 title = "Ante su censura, organización."
 date = 2026-11-20
 author = "Turina xLa Pública"
-description = "Arranca la huelga indefinida por la educación pública."
+description = "Zarzalejo nos censura, nostras respondemos."
 image = "images/ayuso-zarzalejo_15_1200x675.jpeg"
 tags = ["huelga-indefinida", "educacion-publica"]
 +++
+
+#### *Primera acción: al final del post*
 
 ## Ante su censura, organización.
 
@@ -20,3 +22,6 @@ Por ello es vital organizarnos, el alumnado, el profesorado y las familias deben
 Nosotras no vamos a parar. La lucha va a seguir, independientemente de si Zarzalejo decide cumplir la ley o vulnerar nuestros derechos constitucionales más básicos. No tenemos miedo, pero sus insultos, sus recortes y su negativa a negociar hacen que cada día tengamos más rabia. **Este conflicto lo va a ganar la pública, y esta séptima semana de huelga, nuestro centro va a estar empapelado en verde**. 
 
 Anunciaremos acciones próximamente, lo tenemos todo preparado, pero nos faltas tú. [Únete a la asamblea](/get-involved).
+
+
+1- 23/11/26 - El instituto aparece con decenas de lacitos verdes en la puerta colocados por el alumnado, así como pegatinas de la asamblea por las inmediaciones. Lee el post [aquí](/blog/accion_censura_1).

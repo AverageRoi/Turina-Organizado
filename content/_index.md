@@ -2,13 +2,13 @@
 title = "Casa"
 
 [hero]
-  eyebrow = "Para todos"
+  eyebrow = "Para tod@s"
   title = "Una organización de activismo estudiantil"
   lead = "Mira lo que estamos haciendo ahora"
   image = "images/hero.png"
   [[hero.ctas]]
     label = "Calendario"
-    url = "https://example.com/rsvp"
+    url = "/events"
     icon = "fa-solid fa-calendar"
     variant = "primary"
   [[hero.ctas]]

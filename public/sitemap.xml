@@ -4,30 +4,28 @@
   <url>
     <loc>http://localhost:1313/handbook/</loc>
   </url><url>
-    <loc>http://localhost:1313/organizers/rodrigo/</loc>
-  </url><url>
-    <loc>http://localhost:1313/runbooks/</loc>
-  </url><url>
-    <loc>http://localhost:1313/organizers/victor/</loc>
-  </url><url>
-    <loc>http://localhost:1313/organizers/voluntario/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/censura/</loc>
-    <lastmod>2026-11-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/censura/</loc>
+    <lastmod>2026-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/educacion-publica/</loc>
-    <lastmod>2026-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/accion_censura_1/</loc>
+    <lastmod>2026-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/huelga-indefinida/</loc>
-    <lastmod>2026-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/censura/</loc>
     <lastmod>2026-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/events/</loc>
@@ -38,6 +36,8 @@
   </url><url>
     <loc>http://localhost:1313/blog/huelga_general/</loc>
     <lastmod>2026-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/runbooks/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
   </url><url>

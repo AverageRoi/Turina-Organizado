@@ -20,8 +20,8 @@ title = "Casa"
   value = "2024"
   label = "fundación del grupo"
 [[stats]]
-  value = "Todos"
-  label = "son bienvenidos"
+  value = "Tod@s"
+  label = "son bienvenid@s"
 [[stats]]
   value = "Lucha"
   label = "por un futuro mejor"
@@ -41,7 +41,7 @@ title = "Casa"
 [[features]]
   icon = "fa-solid fa-comments"
   title = "Lucha Asamblearia"
-  body = "Estructura autogestionada: Turina xLa Pública se debe a su asamblea general, espacio de debate, propuestas y organización."
+  body = "Estructura autogestionada: Turina xLa Pública se debe a su asamblea, espacio de debate, propuestas y organización."
 [[features]]
   icon = "fa-solid fa-hand-fist"
   title = "Construir la lucha organizada"

@@ -93,7 +93,7 @@ buildFuture = true
   [[params.social]]
     label = "Email"
     icon  = "fa-solid fa-envelope"
-    url   = "mailto:representacionalumnosturina@gmail.com"
+    url   = "mailto:asamblea@turinaxlapublica.org"
 
   [params.footer]
     tagline = "Fish · Plants · Community, a Hugo demo site for the Popular theme"

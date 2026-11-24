@@ -10,7 +10,7 @@ lead = "Haz que se escuche tu voz junto a la de tus compañeros y compañeras en
 
 ¡Escríbenos un correo y nos ponemos en contacto contigo!
 
-{{< button url="mailto:representacionalumnosturina@gmail.com? subject=Información%20Asamblea" label="Escríbenos" icon="fa-solid fa-hand-sparkles" >}}
+{{< button url="mailto:asamblea@turinaxlapublica.org? subject=Información%20Asamblea" label="Escríbenos" icon="fa-solid fa-hand-sparkles" >}}
 
 ## Organízate con la asamblea
 
@@ -18,4 +18,4 @@ Siempre buscamos nuevas voces de todos los cursos que quieran hacerse oír y col
 
 ¡Escríbenos y organízate!
 
-{{< button url="mailto:representacionalumnosturina@gmail.com? subject=Quiero%20organizarme" label="Organízate" icon="fa-solid fa-users-line" >}}
+{{< button url="mailto:asamblea@turinaxlapublica.org? subject=Quiero%20organizarme" label="Organízate" icon="fa-solid fa-users-line" >}}

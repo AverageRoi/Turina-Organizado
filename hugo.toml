@@ -1,6 +1,6 @@
-baseURL = "https://example.com/"
+baseURL = "https://turinaxlapublica.org/"
 enableRobotsTXT = true
-title = "Turina Organizado"
+title = "Turina xLa Pública"
 # A bare `hugo server` here cannot find the theme (it lives at the repo root,
 # not in themes/). Serve everything with scripts/serve-all.sh, or run:
 #   hugo server --source <this dir> --themesDir <repo parent> --theme hugo-theme-popular
@@ -29,7 +29,7 @@ buildFuture = true
   url = "/about/"
   weight = 10
 [[menu.main]]
-  name = "Organizers"
+  name = "Organizadores"
   parent = "Información"
   url = "/organizers/"
   weight = 20
@@ -50,7 +50,7 @@ buildFuture = true
   popularVersion = "0.14.2"
   tagline = "Una organización de activismo estudiantil"
   description = "Una organización de activismo estudiantil."
-  brandName = "Turina Organizado"
+  brandName = "Turina xLa Pública"
   brandSub = ""
   logo = "images/logo.png"
   ogImage = "images/hero.png"
@@ -67,7 +67,7 @@ buildFuture = true
 
   [params.cta]
     label = "RSVP"
-    url   = "https://example.com/rsvp"
+    url   = "/calendar/"
     icon  = "fa-solid fa-calendar"
 
   [params.notice]

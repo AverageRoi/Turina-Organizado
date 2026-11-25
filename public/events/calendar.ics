@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:http://localhost:1313/events/concierto/
-DTSTAMP:20261124T220121Z
+DTSTAMP:20261125T215744Z
 DTSTART:20261026T180000
 DTEND:20261026T200000
 SUMMARY:Concierto xLa Pública
@@ -16,6 +16,18 @@ LOCATION:Concierto
 DESCRIPTION:Concierto en apoyo a la huelga educativa.\nEntrada libre hasta 
  completar aforo\nhttp://localhost:1313/events/concierto/
 URL:http://localhost:1313/events/concierto/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:http://localhost:1313/events/concierto-copy/
+DTSTAMP:20261125T215744Z
+DTSTART:20261026T113500
+DTEND:20261026T133500
+SUMMARY:Elecciones estudiantes al Consejo Escolar
+LOCATION:Salón de Actos
+DESCRIPTION:Vota a tus representantes al Consejo Escolar.\nhttp://localhost
+ :1313/events/concierto-copy/
+URL:http://localhost:1313/events/concierto-copy/
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

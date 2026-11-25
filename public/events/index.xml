@@ -20,5 +20,12 @@
 				<guid>http://localhost:1313/events/concierto/</guid>
 				<description>&lt;p&gt;Toda la comunidad educativa se une alrededor de la música para apoyar al profesorado en huelga. Acercáte y no te quedes sin tu pegatina, chapa y camiseta.&lt;/p&gt;</description>
 			</item>
+			<item>
+				<title>Elecciones estudiantes al Consejo Escolar</title>
+				<link>http://localhost:1313/events/concierto-copy/</link>
+				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/concierto-copy/</guid>
+				<description>&lt;p&gt;Vota a tus representantes. Haz oír.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

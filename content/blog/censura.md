@@ -7,7 +7,7 @@ image = "images/ayuso-zarzalejo_15_1200x675.jpeg"
 tags = ["huelga-indefinida", "educacion-publica"]
 +++
 
-#### *Primera acción: al final del post*
+#### *Acciones llevadas a cabo esta semana al final del post*
 
 ## Ante su censura, organización.
 
@@ -24,4 +24,6 @@ Nosotras no vamos a parar. La lucha va a seguir, independientemente de si Zarzal
 Anunciaremos acciones próximamente, lo tenemos todo preparado, pero nos faltas tú. [Únete a la asamblea](/get-involved).
 
 
-1- 23/11/26 - El instituto aparece con decenas de lacitos verdes en la puerta colocados por el alumnado, así como pegatinas de la asamblea por las inmediaciones. Lee el post [aquí](/blog/accion_censura_1).
+1 - 23/11/26 - El instituto aparece con decenas de lacitos verdes en la puerta colocados por el alumnado, así como pegatinas de la asamblea por las inmediaciones. Lee el post [aquí](/blog/accion_censura_1).
+
+2 - 25/11/26 - El instituto amanece con carteles señalando directamente a Zarzalejo. Consejera, ¡negocia o dimite! Lee el post [aquí](/blog/accion_censura_2).

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Consejo-Escolar on Turina xLa Pública</title>
+		<link>http://localhost:1313/tags/consejo-escolar/</link>
+		<description>Recent content in Consejo-Escolar on Turina xLa Pública</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/consejo-escolar/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Elecciones estudiantes al Consejo Escolar</title>
+				<link>http://localhost:1313/events/concierto-copy/</link>
+				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/concierto-copy/</guid>
+				<description>&lt;p&gt;Toda la comunidad educativa se une alrededor de la música para apoyar al profesorado en huelga. Acercáte y no te quedes sin tu pegatina, chapa y camiseta.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

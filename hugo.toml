@@ -20,19 +20,9 @@ buildFuture = true
   unsafe = true
 
 [[menu.main]]
-  name = "Información"
-  url = "/about/"
-  weight = 10
-[[menu.main]]
   name = "Conócenos"
-  parent = "Información"
   url = "/about/"
   weight = 10
-[[menu.main]]
-  name = "Organizadores"
-  parent = "Información"
-  url = "/organizers/"
-  weight = 20
 [[menu.main]]
   name = "Blog"
   url = "/blog/"
@@ -97,26 +87,26 @@ buildFuture = true
       label = "Popular. A Hugo theme by Mariatta."
       url   = "https://popular.mariatta.ca/"
     [[params.footer.columns]]
-      title = "Community"
+      title = "La Asamblea"
       [[params.footer.columns.links]]
-        label = "About us"
+        label = "Quiénes somos"
         url = "/about/"
       [[params.footer.columns.links]]
         label = "Blog"
         url = "/blog/"
       [[params.footer.columns.links]]
-        label = "Code of Conduct"
+        label = ""
         url = "/code-of-conduct/"
     [[params.footer.columns]]
-      title = "Get involved"
+      title = "Organízate"
       [[params.footer.columns.links]]
         label = "Contáctanos"
         url = "/get-involved/#contacta-con-nosotros"
       [[params.footer.columns.links]]
-        label = "Organízate"
+        label = "Únete"
         url = "/get-involved/#organízate-con-la-asamblea"
       [[params.footer.columns.links]]
-        label = "Organizers"
+        label = ""
         url = "/organizers/"
     [[params.footer.columns]]
       title = "Turina xLa Pública"
@@ -124,7 +114,7 @@ buildFuture = true
         label = "Programa"
         url = "/handbook/"
       [[params.footer.columns.links]]
-        label = "Meetup Runbooks"
+        label = ""
         url = "/runbooks/"
 
 [mediaTypes."text/calendar"]

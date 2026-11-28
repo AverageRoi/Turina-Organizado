@@ -22,6 +22,8 @@ Nos repartimos roles y responsabilidades para llevar a cabo tareas y acciones co
 
 Pueden decidir todas las asambleas anunciadas por todos los canales de difusión de "Turina xLa Pública" con, al menos, 24 horas de antelación, así como las que tengan suficientes miembros como para considerarse representativas del alumnado (~5%, ahora mismo).
 
+Se podrán tomar decisiones asimismo a través de aquellas votaciones telemáticas a las que tengan acceso todos los miebros de la asamblea y estén abiertas durante, al menos, 24 horas y con una jornada lectiva dentro del periodo de votación. 
+
 La asamblea toma todas las decisiones mediante votaciones por mayoría simple, buscando siempre consensos en los puntos que presenten disputas. 
 
 ## Involucración y contacto con otras asambleas y organizaciones

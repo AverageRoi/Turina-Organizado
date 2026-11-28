@@ -3,7 +3,7 @@ title = "Colegio electoral"
 date = 2026-11-28
 author = "Turina xLa Pública"
 description = "Ayer borraban pintadas del instituto para adecentarlo de cara a la fiesta democrática de mañana. En la octava semana, seguiremos dando la cara, gobierne quien gobierne."
-image = "images/elecciones.jpg"
+image = "images/elecciones.webp"
 tags = ["elecciones", "educacion-publica"]
 +++
 

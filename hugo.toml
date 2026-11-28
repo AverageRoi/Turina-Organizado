@@ -82,7 +82,7 @@ buildFuture = true
     url   = "mailto:asamblea@turinaxlapublica.org"
 
   [params.footer]
-    tagline = "Fish · Plants · Community, a Hugo demo site for the Popular theme"
+    tagline = "Defiende tus derechos, defiende tu instituto."
     [params.footer.credit]
       label = "Popular. A Hugo theme by Mariatta."
       url   = "https://popular.mariatta.ca/"
